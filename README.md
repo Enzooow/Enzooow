@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Enzooow
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C, Python, HTML, CSS and JavaScript
+- 👀 I’m interested in cybersecurity area.
+- 🌱 I’m currently learning C, Python, HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+- LinkedIn = https://www.linkedin.com/in/enzo-sabanai-70a590207/
 
 <!---
 Enzooow/Enzooow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
