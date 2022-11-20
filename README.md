@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Enzooow
-- 👀 I’m interested in cybersecurity area and ML/AI.
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and Java.
+- 👋 Hi, I’m Enzo Sabanai
+- 📚🎓 Current studying computer science (Bachelor Degree)
+- 👀 I’m interested in cybersecurity area, ML/AI and software engineering.
+- 🌱 Passionate for competitive programming, solving problems and helping others!
 - 📫 How to reach me: https://www.linkedin.com/in/enzo-sabanai/
 <!---
 Enzooow/Enzooow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
